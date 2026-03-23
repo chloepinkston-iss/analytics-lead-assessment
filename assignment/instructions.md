@@ -6,10 +6,12 @@
 ## Overview
 You are working on a financial analytics platform that integrates **structured** (numeric financial data) and **unstructured** (earnings call transcripts) information to generate insights for analysts.
 
-You are provided with two datasets:
-- **structured_financials_clean.csv** — quarterly financial metrics for 25 companies (2022–2024)
+You are provided with two main datasets:
+- **structured_financials.csv** — quarterly financial metrics for 25 companies (2022–2024)
 - **transcripts_25_tickers_2022_2024.csv** — earnings call transcripts (12 per company)
-
++
+- **company_tickers.json** - ticker to company mapping
+  
 An optional starter notebook is also provided:
 - **candidate_template.ipynb**
 
