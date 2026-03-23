@@ -3,14 +3,14 @@
 **Estimated Time:** 6–10 hours (please do not exceed ~12 hours)
 
 ---
-## 📘 Overview
+## Overview
 You are working on a financial analytics platform that integrates **structured** (numeric financial data) and **unstructured** (earnings call transcripts) information to generate insights for analysts.
 
 You are provided with two datasets:
 - **structured_financials_clean.csv** — quarterly financial metrics for 25 companies (2022–2024)
 - **transcripts_25_tickers_2022_2024.csv** — earnings call transcripts (12 per company)
 
-A starter notebook is also provided:
+An optional starter notebook is also provided:
 - **candidate_template.ipynb**
 
 The goal is to evaluate your ability to:
@@ -21,7 +21,7 @@ The goal is to evaluate your ability to:
 - Communicate results clearly
 
 ---
-## 🧩 Part 1: Data Processing (Python)
+## Part 1: Data Processing (Python)
 Using Python (Jupyter / VS Code):
 - Load and clean both datasets
 - Join the structured and unstructured data
@@ -29,7 +29,7 @@ Using Python (Jupyter / VS Code):
 - Document assumptions and decisions
 
 ---
-## 🧠 Part 2: NLP / Text Analysis
+## Part 2: NLP / Text Analysis
 Apply NLP techniques to extract insights from transcripts.
 Examples:
 - Sentiment analysis
@@ -44,7 +44,7 @@ Then:
 - Compare textual signals to financial performance
 
 ---
-## 🤖 Part 2B (Optional): Modeling
+## Part 2B (Optional): Modeling
 If time allows, build a simple predictive model. Options include:
 - Predicting revenue growth direction (up/down)
 - Sentiment classification
@@ -56,10 +56,10 @@ Requirements:
 - Evaluate using standard metrics
 - Compare models and discuss performance
 
-*Note: Focus on reasoning, not model complexity.*
+*Note: Focus on reasoning, not model complexity/performance.*
 
 ---
-## 🏗 Part 3: Data Modeling & Transformation
+## Part 3: Data Modeling & Transformation
 Design how this data should be structured for analytics.
 
 ### Provide:
@@ -70,13 +70,13 @@ Design how this data should be structured for analytics.
 This can be written, diagrammed, or tabular.
 
 ---
-## 📊 Part 4: Dashboard (Power BI or Tableau)
+## Part 4: Dashboard (Power BI or Tableau)
 Build a dashboard that communicates key insights.
 
 ### Dashboard Requirements:
 - Key financial metrics
 - Text/NLP-based insights
-- At least one visualization that conveys a meaningful insight
+- At least one visualization that conveys a meaningful/interesting insight
 - Filters for: **Company**, **Sector**, **Region** (if applicable)
 
 ---
@@ -90,7 +90,7 @@ Provide a short write-up (≈1 page, or in the notebook) covering:
 - What you would improve with more time
 
 ---
-## 📤 Deliverables
+## Deliverables
 Submit:
 1. **Python notebook (.ipynb)** or script
 2. **Dashboard file** (Power BI or Tableau)
