@@ -9,7 +9,7 @@ You are working on a financial analytics platform that integrates **structured**
 You are provided with two main datasets:
 - **structured_financials.csv** — quarterly financial metrics for 25 companies (2022–2024)
 - **transcripts_25_tickers_2022_2024.csv** — earnings call transcripts (12 per company)
-+
+  +
 - **company_tickers.json** - ticker to company mapping
   
 An optional starter notebook is also provided:
