@@ -17,7 +17,7 @@ An optional starter notebook is also provided:
 - **candidate_template.ipynb**
 
 The goal is to evaluate your ability to:
-- Clean, join, and derive insights from messy real-world data
+- Clean, join, and derive insights from real-world data
 - Apply NLP/text analytics
 - Build simple models (optional)
 - Design a data model and pipeline
@@ -28,7 +28,7 @@ The goal is to evaluate your ability to:
 Using Python (Jupyter / VS Code):
 - Load and clean both datasets
 - Join the structured and unstructured data
-- Create **at least two** derived features (e.g., margins, revenue growth, trend indicators)
+- Create **at least two** derived features (e.g. revenue growth, trend indicators, etc.)
 - Document assumptions and decisions
 
 ---
@@ -44,7 +44,7 @@ You may use libraries such as spaCy, scikit-learn, HuggingFace, or LLM APIs.
 
 Then:
 - Aggregate NLP results appropriately (e.g., by company or quarter)
-- Compare textual signals to financial performance
+- Compare textual signals to financial performance (will be used in later parts)
 
 ---
 ## Part 2B (Optional): Modeling
@@ -80,10 +80,10 @@ Build a dashboard that communicates key insights.
 - Key financial metrics
 - Text/NLP-based insights
 - At least one visualization that conveys a meaningful/interesting insight
-- Filters for: **Company**, **Sector**, **Region** (if applicable)
+- Filters for: **Company**, **Sector**, **Ticker** (if applicable)
 
 ---
-## 📝 Part 5: Insights & Write-Up
+## Part 5: Insights & Write-Up
 Provide a short write-up (≈1 page, or in the notebook) covering:
 - Key insights from your analysis
 - Data quality issues identified
@@ -102,7 +102,7 @@ Submit:
 You may zip these into one archive.
 
 ---
-## ✔ Tools Allowed
+## Tools Allowed
 - Python (Jupyter / VS Code)
 - Power BI or Tableau
 - SQL (optional)
